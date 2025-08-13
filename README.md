@@ -23,13 +23,16 @@ Perfect for students or anyone who wants to **track learning progress** efficien
 
 ---
 ## 🗂 Project Structure
-StudyTracker/
-│
-├── src/
-│ ├── StudyTrackerStarter.java
-│
-├── README.md
-└── .gitignore
+	```
+	StudyTracker/
+	│
+	├── src/
+	│ ├── StudyTrackerStarter.java
+	│
+	├── README.md
+	└── .gitignore
+	```
+
 
 
 ---
