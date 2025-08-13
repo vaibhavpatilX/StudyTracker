@@ -23,7 +23,7 @@ Perfect for students or anyone who wants to **track learning progress** efficien
 
 ---
 ## 🗂 Project Structure
-	```
+	
 	StudyTracker/
 	│
 	├── src/
@@ -31,7 +31,7 @@ Perfect for students or anyone who wants to **track learning progress** efficien
 	│
 	├── README.md
 	└── .gitignore
-	```
+	
 
 
 
