@@ -27,9 +27,12 @@ Perfect for students or anyone who wants to **track learning progress** efficien
 StudyTracker/
 │
 ├── src/
+
 │   ├── StudyTrackerStarter.java
+
 │
 ├── README.md
+
 └── .gitignore
 
 
