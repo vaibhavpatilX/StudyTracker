@@ -22,7 +22,6 @@ Perfect for students or anyone who wants to **track learning progress** efficien
 - CSV file generation
 
 ---
-
 ## 🗂 Project Structure
 StudyTracker/
 │
@@ -31,7 +30,6 @@ StudyTracker/
 │
 ├── README.md
 └── .gitignore
-
 
 
 ---
