@@ -7,6 +7,12 @@
 [![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red)](#)  
 [![GitHub Repo](https://img.shields.io/badge/GitHub-StudyTracker-black?logo=github)](https://github.com/vaibhavpatilX/Study-Tracker)  
 
+[![Contributions welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=flat)](#)  
+[![Stars](https://img.shields.io/github/stars/vaibhavpatilX/StudyTracker?style=social)](https://github.com/vaibhavpatilX/StudyTracker/stargazers)  
+[![Forks](https://img.shields.io/github/forks/vaibhavpatilX/StudyTracker?style=social)](https://github.com/vaibhavpatilX/StudyTracker/network/members)  
+[![Issues](https://img.shields.io/github/issues/vaibhavpatilX/StudyTracker)](https://github.com/vaibhavpatilX/StudyTracker/issues)  
+[![Last Commit](https://img.shields.io/github/last-commit/vaibhavpatilX/StudyTracker)](https://github.com/vaibhavpatilX/StudyTracker/commits/main)  
+
 ---
 
 ## 🌟 Overview
@@ -32,7 +38,6 @@ Perfect for students or anyone who wants to **track learning progress** efficien
 
 ---
 
-## 🗂 Project Structure
 StudyTracker/
 │
 ├── src/
@@ -41,9 +46,6 @@ StudyTracker/
 ├── README.md
 └── .gitignore
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -51,11 +53,9 @@ Edit
 1. Compile all `.java` files:
    ```bash
    javac src/*.java
+
 Run the program:
 
-bash
-Copy
-Edit
 java src.StudyTrackerStarter
 Follow the on-screen menu to:
 
@@ -67,18 +67,21 @@ Check summaries by date 📅 or subject 📚
 
 Export logs 💾
 
-📊 Sample Output
-mathematica
-Copy
-Edit
+## 📊 Sample Output
+
+
 Date       | Subject | Duration | Description
 2025-08-13 | Java    | 2.5      | Learned TreeMap and ArrayList
 2025-08-13 | C++     | 1.5      | Reviewed Linked Lists
+
 🌟 Author
 Vaibhav Patil
 B.Tech CSE Passout 2025 | Java & Full-stack Developer
-🔗 LinkedIn | GitHub: vaibhavpatilX
+🔗 [LinkedIn](https://www.linkedin.com/in/cs-er-vaibhav/) | GitHub: [vaibhavpatilX](https://github.com/vaibhavpatilX)
 
 🔗 GitHub Repository
 👉 [Study Tracker - Java Project](https://github.com/vaibhavpatilX/StudyTracker)
+
+## 📈 GitHub Stats
+![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=vaibhavpatilX&repo=StudyTracker&theme=radical)
 
