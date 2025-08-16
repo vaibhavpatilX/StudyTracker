@@ -1,4 +1,13 @@
-# 📚 Study Tracker - Console Java Application
+
+# 📚 Study Tracker - Console Java Application  
+
+[![Java](https://img.shields.io/badge/Java-17-orange?logo=java&logoColor=white)](https://www.oracle.com/java/)  
+[![Platform](https://img.shields.io/badge/Platform-Console-blue?logo=windows-terminal&logoColor=white)](#)  
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
+[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red)](#)  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-StudyTracker-black?logo=github)](https://github.com/vaibhavpatilX/Study-Tracker)  
+
+---
 
 ## 🌟 Overview
 This is a **Console-based Study Tracker** application developed in Java.  
@@ -19,49 +28,57 @@ Perfect for students or anyone who wants to **track learning progress** efficien
 ## 💻 Technologies
 - Java (OOP, Collections, File I/O)  
 - `LocalDate` (Java Time API)  
-- CSV file generation
+- CSV file generation  
 
 ---
+
 ## 🗂 Project Structure
-	
-	StudyTracker/
-	│
-	├── src/
-	│ ├── StudyTrackerStarter.java
-	│
-	├── README.md
-	└── .gitignore
-	
+StudyTracker/
+│
+├── src/
+│ ├── StudyTrackerStarter.java
+│
+├── README.md
+└── .gitignore
 
-
+yaml
+Copy
+Edit
 
 ---
 
 ## 🏃 How to Run
 1. Compile all `.java` files:
-   ```
+   ```bash
    javac src/*.java
-	```
-2.	Run the program:
+Run the program:
 
-	javac src.StudyTrackerStarter.java
-	
-3.	Follow the on-screen menu to:
+bash
+Copy
+Edit
+java src.StudyTrackerStarter
+Follow the on-screen menu to:
 
-	Insert study logs 📝
+Insert study logs 📝
 
-	View all logs 📄
+View all logs 📄
 
-	Check summaries by date 📅 or subject 📚
+Check summaries by date 📅 or subject 📚
 
-	Export logs 💾
-	
+Export logs 💾
+
 📊 Sample Output
-
-	Date       | Subject | Duration | Description
-	2025-08-13 | Java    | 2.5      | Learned TreeMap and ArrayList
-	2025-08-13 | C++     | 1.5      | Reviewed Linked Lists
-	
+mathematica
+Copy
+Edit
+Date       | Subject | Duration | Description
+2025-08-13 | Java    | 2.5      | Learned TreeMap and ArrayList
+2025-08-13 | C++     | 1.5      | Reviewed Linked Lists
 🌟 Author
 Vaibhav Patil
-B.Tech CSE Passout 2025 | Java & Full-stack Developer | [LinkedIn](https://www.linkedin.com/in/cs-er-vaibhav/) | GitHub: [vaibhavpatilX](https://github.com/vaibhavpatilX)
+B.Tech CSE Passout 2025 | Java & Full-stack Developer
+🔗 LinkedIn | GitHub: vaibhavpatilX
+
+🔗 GitHub Repository
+👉 [Study Tracker - Java Project](https://github.com/vaibhavpatilX/StudyTracker)
+
