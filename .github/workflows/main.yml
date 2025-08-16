@@ -1,4 +1,5 @@
 name: GitHub Contribution Snake
+
 permissions:
   contents: write
 
@@ -14,16 +15,17 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate Snake
+      - name: Generate Contribution Snake
         uses: Platane/snk/svg-only@v3
         with:
+          github_user_name: vaibhavpatilX  # Your GitHub username
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          output: github-contribution-grid-snake.svg
+          outputs: github-contribution-grid-snake.svg
 
       - name: Commit Snake
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add github-contribution-grid-snake.svg
-          git commit -m "Update Contribution Snake"
+          git commit -m "Update Contribution Snake" || echo "No changes to commit"
           git push
