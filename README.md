@@ -1,6 +1,10 @@
 
 # 📚 Study Tracker - Console Java Application  
 
+<p align="center">
+  <img src="https://github.com/vaibhavpatilX/vaibhavpatilX/blob/main/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</p>
+
 [![Java](https://img.shields.io/badge/Java-17-orange?logo=java&logoColor=white)](https://www.oracle.com/java/) 
 [![Platform](https://img.shields.io/badge/Platform-Console-blue?logo=windows-terminal&logoColor=white)](#) 
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) 
