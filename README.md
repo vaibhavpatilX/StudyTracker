@@ -9,4 +9,5 @@ Perfect for students or anyone who wants to **track learning progress** efficien
 
 Vaibhav Patil
 
-B.Tech CSE Passout 2025 | Java & Full-stack Developer
+B.Tech CSE Passout 2025 |
+ Java & Full-stack Developer
