@@ -80,7 +80,9 @@ Export logs 💾
 
 
 🌟 Author
+
 Vaibhav Patil
+
 B.Tech CSE Passout 2025 | Java & Full-stack Developer
 
 🔗 [LinkedIn](https://www.linkedin.com/in/cs-er-vaibhav/) | GitHub: [vaibhavpatilX](https://github.com/vaibhavpatilX)
