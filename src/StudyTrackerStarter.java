@@ -312,7 +312,7 @@ class StudyTrackerStarter       //StudyTrackerStarter   //View
       
             }//End of Switch case
 
-        }//End of do block
+        }//End of do block.
         while(iChoice != 6);
 
     }//End of main function
